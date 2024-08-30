@@ -4,7 +4,7 @@ Este é um projeto de página web estilo portfólio, desenvolvido para exibir ha
 
 ## 🔗 Acesso ao Projeto
 
-Você pode visualizar o projeto ao vivo através do seguinte link: [Visualizar Projeto](https://alvarodev12.github.io/portfolio-fron-end/)
+Você pode visualizar o projeto ao vivo através do seguinte link: [Visualizar Projeto](https://alvarodev12.github.io/pagina-web-portfolio/)
 
 ## 📁 Estrutura do Projeto
 
